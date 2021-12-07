@@ -1,0 +1,5 @@
+/home/tapi1300/Desktop/vision_artificial/mi_vision/p6/build/CMakeFiles/rebuild_cache.dir
+/home/tapi1300/Desktop/vision_artificial/mi_vision/p6/build/CMakeFiles/edit_cache.dir
+/home/tapi1300/Desktop/vision_artificial/mi_vision/p6/build/CMakeFiles/view3d.dir
+/home/tapi1300/Desktop/vision_artificial/mi_vision/p6/build/CMakeFiles/filter.dir
+/home/tapi1300/Desktop/vision_artificial/mi_vision/p6/build/CMakeFiles/pcl.dir
